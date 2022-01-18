@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Content --
+Orr's Island, Maine 
+
+![merritt-house](/images/1.jpeg)
