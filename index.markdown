@@ -8,7 +8,13 @@ layout: home
 
 
 ![merritt-house](/images/1.jpeg)
+<br>
 
+<hr>
+
+<p> western views from porch </p>
+
+![view from porch](/images/IMG_2278.jpeg)
 
 
 
