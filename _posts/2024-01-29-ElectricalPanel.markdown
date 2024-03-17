@@ -10,7 +10,7 @@ categories: merritthouse update
 
 <p> With irregular power issues, our fire suppression (sprinkler) system was having repeated faults or resets and it was determined that the problem was related to the power supply.   In the process of dealing with that, two other and ultimately much larger issues were identified.  1)  there was some problem with the risers or connecters where the line from the pole attaches to the building  2)  the master disconnect switch and fuse that were in place in the electric utility room (the old box by the back door with the on / off throw handle) was in an unsafe location and as a disconnect inadequate by modern standards.   It was one large switch with a single 600 amp fuse that would protect the building from electrical shorts of undetermined older age</p>
 
-<P>  6 master electricians worked to install the new service and meter.</P>
+<P>  6 master electricians from Casco Bay Power worked to install the new service and meter.</P>
 
 <p> Original Panel to be replaced </p>
 
