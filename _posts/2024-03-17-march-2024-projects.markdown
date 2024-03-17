@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "March 2024 project updates - G1 porch"
+title:  "March 2024 project updates - G1 porch started"
 date:   2024-03-17 12:00:00 -0600
 categories: merritthouse update
 ---
