@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Electircal Panel Update"
+title:  "Electrical Panel Update"
 date:   2023-12-04 17:38:12 -0600
 categories: merritthouse update
 ---
@@ -14,13 +14,14 @@ categories: merritthouse update
 
 <p> Original Panel to be replaced </p>
 
-![Original Panel to be replaced](https://cvws.icloud-content.com/S/AbLIFhLs7GjvuTT6GlScTn-1ux0Y/IMG_4405.JPG?o=ArSsplcMgz076wuO0ptIVEeYuAEES04m1f0CoHuvMY-J&v=1&z=https%3A%2F%2Fp72-content.icloud.com%3A443&x=1&a=CAoghnQ4VY1J0uVmqtc6wVy3W3BtjF_dl9ITZ6E4ZGHPpfQSYxD27azu5DEY9oTA8-QxIgEAUgS1ux0YaiR32BNee2RQmZbTTXKb2lY-yq5obwT2wAoAZR627vO9nkkcRLlyJFIdXGJj9K9XtMVMtXJPR3ec-KHpvgU3bpYA8XeE-JxsiBNrQA&e=1710712947&r=ea93147a-d213-4dfd-8898-9b49002c0155-2&s=LDJuw4vfk8CqnNi_kLO_QWSWIlY)
+<iframe src="https://drive.google.com/file/d/1InbdWZcMaw8BEg1OlA8Apb_gw_I0P_Jf/preview" width="640" height="480" allow="autoplay"></iframe>
 <br>
 <br>
 <br>
 
 <p> Original location in a approx 36" wide clearance over steps in the hallway </p>
 
-![Original location in 36" wide hallway](https://cvws.icloud-content.com/S/Aaz9dtNV54sTikULGNi_e3ELJgWn/IMG_4397.JPG?o=Al_BMuEPvuqFtv5MTpolm-PTprs4IeDIF4plvbYDkRRF&v=1&z=https%3A%2F%2Fp72-content.icloud.com%3A443&x=1&a=CAogWOK33qaxrKzoL5HIrStYULdJanOmdHrpMhg7IsghAyASYxDzqdLu5DEY88Dl8-QxIgEAUgQLJgWnaiR1eYbkecK3mDfoYp2d-hVG680EDiOVcL-jKTuKztSJ1mvVr4JyJLEJTARMWfa79R2CSvGWSEYZUGHdJlnQvSm8rlEgEtKNbnr_ug&e=1710713561&r=ab8fa85a-f002-44db-8255-53e75402243d-6&s=0fEKdBOwAOYZhQ6zOcLG3GEbLjE)
+
+<iframe src="https://drive.google.com/file/d/13j6ZDXMZv-SezI14OC5NRAfR5KYXyIHI/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <br>
