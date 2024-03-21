@@ -19,7 +19,7 @@ categories: merritthouse update
 <br>
 <br>
 
-<p> Original location in a approx 36" wide clearance over steps in the hallway </p>
+<p> Original location with approx 36" wide clearance over steps in the hallway </p>
 
 
 <iframe src="https://drive.google.com/file/d/13j6ZDXMZv-SezI14OC5NRAfR5KYXyIHI/preview" width="640" height="480" allow="autoplay"></iframe>
