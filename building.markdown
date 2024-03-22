@@ -8,6 +8,8 @@ permalink: /building/
 <hr>
 <h2> Building Information</h2>
 <hr>
+<p> Vendor List, Task List, Bylaws, and Rules & Regulations are available on the Download tab. Please reach out to a board member for access credentials. </p>
+<hr>
 <br>
 <h1>Trash Collection</h1>
 <p>Twice weekly garbage pickup usually Wed and Fri.
