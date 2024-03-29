@@ -19,6 +19,6 @@ should be double bagged. Recycles should be in a single bag for easier containme
 trash is in marked bins and cans alongside the shed.</p>
 <iframe src="https://drive.google.com/file/d/1pTm3o_28-fcXpnvxOdMJ1dVxrTvDyEEb/preview" width="640" height="480" allow="autoplay"></iframe>
 <h1>Snow Plowing</h1>
-<p> placeholder for info on snow removal</p>
+<p> Snow removal is completed in two plowing sessions. When snow falls occurs please coordinate with other residents to park on one side of the lot. After the first 'half' of the lot is cleared then move you vehicles to the other side for removal of the remianing snow. </p>
 
 
