@@ -10,11 +10,13 @@ permalink: /downloads/
 <hr>
 Plot plan - survey done November 17th 2008 : 
 	<a href="https://drive.google.com/file/d/1t45DL1FopYxRsHJDIbwkYTdxyFXAW3KG/view?usp=sharing">merritthouseSitePlan.pdf</a>
-<hr>
-
+<br>
+Zip file of additional miscellaneous Merritt House Survey Plats : 
+	<a href="https://drive.google.com/file/d/1ZGj6v7OhZCVX9SaaNvusUd_yGjRo_SF2/view?usp=sharing">Merritt House Survey Plats.zip</a>
 <br>
 
 <hr>
+<br>
 Bylaws of MHPV Condo  : 
 	<a href="https://drive.google.com/file/d/18as2LV-m3d9m8Y6i9J3FJGcempwQdYvQ/view?usp=sharing">Bylaws of MHPVCondo.pdf</a>
 	<br>
