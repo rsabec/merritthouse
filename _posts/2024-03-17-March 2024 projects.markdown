@@ -7,12 +7,12 @@ categories: merritthouse update
 
 <p> The first project for the reconstruction of the porch of unit G1 has begun.   </p>
 
-<p>Demolition of G1 porch started on Thursday March 7th.   Once completed it will give open access to G1 crawlspace.  That will allow removal of construction debris, construction of a wall to complete the crawlspace enclosure, encapsulation of the space (including drains and dehumbidifiers) (scheduled for 5/5/2024) and then construction of the new porch.
+<p>March 31st - G1's porch has been demolished, structural wood rot has been removed. Treated wood was used for the new framing.  Debris in the crawlspace has been removed. A solid concrete wall was added at the crawlspace underneath the porch with a door for crawlspace access - this should definitely keep out the raccoons. Next phase will be replacing the decking, the stairs to the porch, and the encapsulation of the crawlspace with a sump pump and spray foam insulation.
 </p>
 
-<p> March 11th - The porch has been demolished and they are now tackling some of the structural wood rot that remains.  Mason will be here the end of the week to begin the wall.</p>
+<p> March 11th - The porch has been demolished and they are now tackling some of the structural wood rot that remains. Mason will be here at the end of the week to begin the wall.</p>
 
-<iframe src="https://drive.google.com/file/d/15IBWqwynGfYj9c6dpgc7Ew2wcKgcjK0K/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1LznYw7DbZwpZshGMmNmhKfQcDkfSSHfW/preview" width="640" height="480" allow="autoplay"></iframe>
 <br>
 <br>
 <br>
