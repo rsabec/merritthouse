@@ -30,3 +30,9 @@ categories: merritthouse update
 <br>
 <iframe src="https://drive.google.com/file/d/176_4AROwBgrtcu8Epn_cfMMBjORMDk2W/preview" width="640" height="480" allow="autoplay"></iframe>
 <br>
+<p>	<h1>Completed panel.</h1></p>
+<br>
+<iframe src="https://drive.google.com/file/d/1-5JC17Ucc4YC1DqlIdWaGbQo8Gi_7Dsq/preview" width="640" height="480" allow="autoplay"></iframe>
+<br>
+<iframe src="https://drive.google.com/file/d/1hPHDrRG9kCUkSWevbiy5e0691sckUBDi/preview" width="640" height="480" allow="autoplay"></iframe>
+<br>
