@@ -17,4 +17,4 @@ categories: merritthouse update
 <br>
 <p>G1 crawl space has been encapsulated. Dehumidifiers are running and drains functional. < Mid May ></p>
 <br>
-<p>The 3 dock Floats launched and connected to the deep-water dock.  Both of the old floats were rehabbed this winter by volunteers from Merritt House.  Thanks to everyone involved,  please see annual meeting notes for more info  < Monday May 20th ></p>
+<p>The 3 dock Floats have been launched and connected to the deep-water dock.  Both of the old floats were rehabbed this winter by volunteers from Merritt House.  Thanks to everyone involved,  please see annual meeting notes for more info  < Monday May 20th ></p>
