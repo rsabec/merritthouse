@@ -13,7 +13,7 @@ categories: merritthouse update
 <iframe src="https://drive.google.com/file/d/1tNAsSPOURsK8Gv77LlLbvqTy6if-gXzB/preview" width="640" height="480" allow="autoplay"></iframe>
 <br>
 
-<p>TC Hafford installed dehumidifiers in the main basement.< Apr 24, 2024 ></p>
+<p>One of the dehumidifiers has been installed in the main basement.< Apr 24, 2024 ></p>
 <br>
 <p>G1 crawl space has been encapsulated. Dehumidifiers are running and drains functional. < Mid May ></p>
 <br>
