@@ -20,7 +20,6 @@ trash is in marked bins and cans alongside the shed.</p>
 <iframe src="https://drive.google.com/file/d/1pTm3o_28-fcXpnvxOdMJ1dVxrTvDyEEb/preview" width="640" height="480" allow="autoplay"></iframe>
 <h1>Snow Plowing</h1>
 <p> Snow removal is completed in two plowing sessions. When snow falls occur, please coordinate with other residents to park on one side of the lot. After the first 'half' of the lot is cleared, then move your vehicles to the other side for removal of the remaining snow. </p>
-<h1>Surrounding Area </h1>
-<p> Place holder for more info.</p>
+
 
 

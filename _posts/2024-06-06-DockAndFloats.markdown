@@ -6,7 +6,7 @@ categories: merritthouse update
 ---
 
 
-<p> Dock and Floats Maintenance.</p>
+<p> Dock and Floats Maintenance Spring 2024.</p>
 
 <p> Long Float Bracket Attachment Repair</p>
 
