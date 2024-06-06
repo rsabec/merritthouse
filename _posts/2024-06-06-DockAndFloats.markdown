@@ -38,3 +38,14 @@ categories: merritthouse update
 <iframe src="https://drive.google.com/file/d/1Yu5miJdyz8PIjg-Q5KN1gfEtn4FkLN8I/preview" width="280" height="480" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/1XccK0cG4pWy259hJLHAbXn9jrugTk5Fo/preview" width="280" height="480" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/10KL-ZUovQ1L_2MYFx0BbQ8dxd0CuwotB/preview" width="280" height="480" allow="autoplay"></iframe>
+<br>
+<p>Rotten Deck Board Repair</p>
+<iframe src="https://drive.google.com/file/d/1m4nLfsCw-DDW-_Aw7RA4tdwxRrgdWw9_/preview" width="480" height="640" allow="autoplay"></iframe>
+<br>
+<p>Old Main Float Corner Notch Repair</p>
+<iframe src="https://drive.google.com/file/d/1SMe2m2Erc9UdqyzdnQzFLyWltDG_G-S3/preview" width="480" height="640" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/14ImDBsSs4ugR379THG-hfIrhmKhsYvfv/preview" width="480" height="640" allow="autoplay"></iframe>
+<br>
+<p>2024 Season -Mission Accomplished!</p>
+<iframe src="https://drive.google.com/file/d/1XABTlY8X0K2YUMT017Rrd6tH67fqmC9U/preview" width="480" height="640" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1qCmgI1axbZ__wveK42ZgEcAc7HUkI_Kq/preview" width="480" height="640" allow="autoplay"></iframe>
