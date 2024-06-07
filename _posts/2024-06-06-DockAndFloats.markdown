@@ -18,7 +18,7 @@ categories: merritthouse update
 <iframe src="https://drive.google.com/file/d/17J9JHYzarf1I1NB4p5LsU7k1NyNvuLfR/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
 
-<p> Ramp bracket repair & reinforcement on long dock with backer boards, 8” SS Lags, & 6” through bolts with lock washers and nylon nuts.</p>
+<p> Ramp bracket repair & reinforcement on long dock with backer boards, 8” SS Lags, & 6” through bolts with lock washers and nylon nuts, all stainless steel.</p>
 
 <iframe src="https://drive.google.com/file/d/1zemtiN97SH0UFy-lhQ7dmWXLQ8AwG194/preview" width="640" height="480" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/1qcQ7mjLr1XkrQ7amcaEqv8o8c0-BNgZh/preview" width="640" height="480" allow="autoplay"></iframe>
