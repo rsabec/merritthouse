@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "G1 Porch Completed Apr 24, 2024"
+title:  "G1 Porch Completed"
 date:   2024-06-03 17:38:12 -0600
 categories: merritthouse update
 ---
