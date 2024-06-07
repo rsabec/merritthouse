@@ -21,7 +21,7 @@
 title: Merritt House
 email: robertjsabec@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Unofficial website for the 'Merritt House' on Orr's Island Maine.  
+  Website for the 'Merritt House' on Orr's Island Maine.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jekyll
