@@ -13,5 +13,7 @@ Located on Orr's Island, Maine.  The original Merritt 'boarding' House was opene
 ![merritt-house](/images/3.jpeg)
 
 ![merritt-house](/images/4.jpeg)
+<br>
+<iframe src="https://drive.google.com/file/d/1kB1I1xeE-mkxwQuDTvGWu1oUZ1IjPxi5/preview" width="640" height="370" allow="autoplay"></iframe>
 
 
