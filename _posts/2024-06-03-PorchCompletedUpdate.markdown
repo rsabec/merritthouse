@@ -10,7 +10,7 @@ categories: merritthouse update
 
 <p> The G1 porch is finished.</p>
 
-<iframe src="https://drive.google.com/file/d/1tNAsSPOURsK8Gv77LlLbvqTy6if-gXzB/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1tNAsSPOURsK8Gv77LlLbvqTy6if-gXzB/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
 
 <p>One of the dehumidifiers has been installed in the main basement.< Apr 24, 2024 ></p>
