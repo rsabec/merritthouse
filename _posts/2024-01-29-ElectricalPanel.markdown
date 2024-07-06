@@ -14,25 +14,25 @@ categories: merritthouse update
 
 <p> Original Panel to be replaced </p>
 
-<iframe src="https://drive.google.com/file/d/1InbdWZcMaw8BEg1OlA8Apb_gw_I0P_Jf/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1InbdWZcMaw8BEg1OlA8Apb_gw_I0P_Jf/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
 <br>
 <p> Original location with approx 36" wide clearance over steps in the hallway </p>
 
-<iframe src="https://drive.google.com/file/d/13j6ZDXMZv-SezI14OC5NRAfR5KYXyIHI/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/13j6ZDXMZv-SezI14OC5NRAfR5KYXyIHI/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
 
 <p>	<h1>New panel located on building exterior.</h1></p>
 <br>
-<iframe src="https://drive.google.com/file/d/1ck98onjoyvUKHy9kGUDi2GTL3NwcJbYC/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1ck98onjoyvUKHy9kGUDi2GTL3NwcJbYC/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/1fT2L5UzGrPnhi1xVwgF1FQSQaEo-zqX8/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1fT2L5UzGrPnhi1xVwgF1FQSQaEo-zqX8/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/176_4AROwBgrtcu8Epn_cfMMBjORMDk2W/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/176_4AROwBgrtcu8Epn_cfMMBjORMDk2W/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
 <p>	<h1>Completed panel.</h1></p>
 <br>
 <iframe src="https://drive.google.com/file/d/1-5JC17Ucc4YC1DqlIdWaGbQo8Gi_7Dsq/preview" width="640" height="480" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/1hPHDrRG9kCUkSWevbiy5e0691sckUBDi/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1hPHDrRG9kCUkSWevbiy5e0691sckUBDi/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
