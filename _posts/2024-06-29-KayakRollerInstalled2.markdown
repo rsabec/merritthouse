@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Kayak Roller Installed and Ready For Use"
-date:   2024-06-29 22:30:00 -0500
+date:   2024-06-29 18:00:00 -0500
 categories: merritthouse update
 ---
 
