@@ -24,7 +24,7 @@ trash is in marked bins and cans alongside the shed.</p>
 <p> Snow removal is completed in two plowing sessions. When snow falls occur, please coordinate with other residents to park on one side of the lot. After the first 'half' of the lot is cleared, then move your vehicles to the other side for removal of the remaining snow. </p>
 <h1>Swim Flag</h1>
 <p> Place the flag anytime someone is swimming to alert nearby boats, kayaks, etc. that someone is in the water.  Please see <a href="/merritthouse/update/2024/06/29/SwimFlag.html">'blog' post from June 29th 2024 'Swim Flag'</a> for more information</p>
-<iframe src="https://drive.google.com/file/d/1MjAyzFLvAzVWYDI_JFuCPS8bz148ZsPj/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1h6ER7RcwTeaRGT18n2_rqZOatUGAuZI2/preview" width="480" height="640" allow="autoplay"></iframe>
 <h1> Kayak Roller </h1>
 <p>The new kayak roller has been installed to the immediate left of the swim ladder.   Please see <a href="/merritthouse/update/2024/06/29/KayakRollerInstalled.html">'blog' post from June 29th 2024 'New Kayak Roller Installed and Ready For Use'</a> for more information </p>
 
