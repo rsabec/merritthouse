@@ -4,9 +4,9 @@ title:  "Crawl Space Unit 11 "
 date:   2024-09-01 01:00:00 -0800
 categories: merritthouse update
 ---
-<p><h1>	Original Structural : </h1> </p> <p> These before pictures show lots of construction debris, wet conditions, uneven posts that had to be addressed before TC Hafford could encapsulate this space to mitigate water and humidity. 
+ <p> These before pictures show lots of construction debris, wet conditions, uneven posts that had to be addressed before TC Hafford could encapsulate this space to mitigate water and humidity. 
 </p>
-
+<p><h1>	Original Structural : </h1> </p>
 <p>Joist hangers connect the floor
 joists to the interior rim joist. The rim joist against the concrete wall is pressure treated (below photo).
 Fastening between the pressure treated rim joist and the concrete wall is unknown as it is concealed
