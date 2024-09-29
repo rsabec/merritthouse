@@ -88,23 +88,23 @@ posts.</p>
 <br>
 <iframe src="https://drive.google.com/file/d/1xZM-0lNeGRi0RAosMQD-3jrcmC2z1wrz/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/12CIP0YndWCuoBzIDP_c2NkvwwlfqcNxk/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/12CIP0YndWCuoBzIDP_c2NkvwwlfqcNxk/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/1n0WoW-1w7m7T3doF2m7nwo6mIuYwSp7Z/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1n0WoW-1w7m7T3doF2m7nwo6mIuYwSp7Z/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/18hZZ-EE4LHhkHXwSMtdBG4yoP_cdOF4L/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/18hZZ-EE4LHhkHXwSMtdBG4yoP_cdOF4L/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/1XwNOBuVYDFSltHV6VV5uvW7hWR4qjP4X/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1XwNOBuVYDFSltHV6VV5uvW7hWR4qjP4X/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/1SAkQ-BQyFhsf1SLLbvzHE8c3sDKjkVfZ/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1SAkQ-BQyFhsf1SLLbvzHE8c3sDKjkVfZ/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/14QjH8vMOYm-zvdmrb1Kw9VGqhB_urWbN/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/14QjH8vMOYm-zvdmrb1Kw9VGqhB_urWbN/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/1Fd7NnEurpoc5SOPHQ_8kDGIl3FZ3yFO3/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1Fd7NnEurpoc5SOPHQ_8kDGIl3FZ3yFO3/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/11SvMB1RjvNWXtBS6SQuANm5rNIDHK5os/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/11SvMB1RjvNWXtBS6SQuANm5rNIDHK5os/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/13VpKzUtprNXuYNcgm0jj3rdxa976HyoI/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/13VpKzUtprNXuYNcgm0jj3rdxa976HyoI/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
 
 
@@ -112,19 +112,19 @@ posts.</p>
 <p><h1>After Pictures:</h1></p>
 <p>-TC Hafford has completed their portion. - Crawl Space is encapsulated and humidity controlled - no more water or moister causing rot or damage to strucure or buiilding systems! <p>
 <br>
-<iframe src="https://drive.google.com/file/d/1Aw0X-6BiayJ0gzsQlLewOmdp-SFYQIqq/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1Aw0X-6BiayJ0gzsQlLewOmdp-SFYQIqq/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/1WxMEqHFuMDdZSwS4Nis9P9h1LtUxaBNU/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1WxMEqHFuMDdZSwS4Nis9P9h1LtUxaBNU/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/10QgwmhmXUvyYYG438V20ShsSMHIsDmk6/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/10QgwmhmXUvyYYG438V20ShsSMHIsDmk6/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/1EwNVR3g_nEuNV3o5QxO9itdiuLIzirBa/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1EwNVR3g_nEuNV3o5QxO9itdiuLIzirBa/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/1YJMpeSM84rd2jlrlae5PV0BpGFse9Ig7/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1YJMpeSM84rd2jlrlae5PV0BpGFse9Ig7/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/1P5lUkvYgNdAE-Cm8y8O7ddnJeYpgaZtm/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1P5lUkvYgNdAE-Cm8y8O7ddnJeYpgaZtm/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/1HugBWJr8Q-Xt-3Wm6bUjCwvSwBNy2VUO/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1HugBWJr8Q-Xt-3Wm6bUjCwvSwBNy2VUO/preview" width="480" height="640" allow="autoplay"></iframe>
 <br>
 
 
