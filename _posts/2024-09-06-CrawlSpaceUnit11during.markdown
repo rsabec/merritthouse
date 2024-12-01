@@ -11,7 +11,16 @@ categories: merritthouse update
 <p>Alex and crew removed the debris, poured new concrete footings for the new posts, installed new structural posts, and recycled a drainage pipe to allow water to flow under the footing instead of pooling up behind it. That way the water will find its way to the sump pump TC Hafford will install and not behind the elevator room. The space is now clean and dry for the next stage.</p>
 
 <br>
-
+<iframe src="https://drive.google.com/file/d/12PehI9xeuBYa-O3VkMvLPajQ-aH9Se1J/preview" width="480" height="640" allow="autoplay"></iframe>
+<br>
+<iframe src="https://drive.google.com/file/d/11ZNgXb1_XkEsa4ZFPjIt7ViTcAQMart6/preview" width="640" height="480" allow="autoplay"></iframe>
+<br>
+<iframe src="https://drive.google.com/file/d/1JxkQabKblsqxoVrSNJzNy40E5ItU_a7n/preview" width="480" height="640" allow="autoplay"></iframe>
+<br>
+<iframe src="https://drive.google.com/file/d/1YfOaQWWrxKVHbx8uEP1Qq209Hrxv9WDz/preview" width="640" height="480" allow="autoplay"></iframe>
+<br>
+<iframe src="https://drive.google.com/file/d/1w_td0gu777eoSSSsFc8w965Cmi-V9vra/preview" width="640" height="480" allow="autoplay"></iframe>
+<br>
 
 
 
