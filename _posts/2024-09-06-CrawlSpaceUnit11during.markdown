@@ -7,7 +7,7 @@ categories: merritthouse update
  <p> Alex and crew work done in crawl space Unit 11. </p>
 
 <p><h1>During Pictures:</h1></p>
-<p>Alex and crew removed the debris, poured new concrete footings for the new posts, installed new structural posts, and recycled a drainage pipe to allow water to flow under the footing instead of pooling up behind it. That way the water will find its way to the sump pump TC Hafford will install and not behind the elevator room. The space is now clean and dry for the next stage.<p>
+<p>Alex and crew removed the debris, poured new concrete footings for the new posts, installed new structural posts, and recycled a drainage pipe to allow water to flow under the footing instead of pooling up behind it. That way the water will find its way to the sump pump TC Hafford will install and not behind the elevator room. The space is now clean and dry for the next stage.</p>
 <br>
 <iframe src="https://drive.google.com/file/d/1OLzJSWHg0SB0p174qtHc_0YBnYOzNhdR/preview" width="640" height="480" allow="autoplay"></iframe>
 <br>
@@ -55,7 +55,7 @@ categories: merritthouse update
 
 
 <p><h1>After Pictures:</h1></p>
-<p>-update will be provided once TC Hafford has completed their portion.  <p>
+<p>-update will be provided once TC Hafford has completed their portion.  </p>
 <br>
 
 
