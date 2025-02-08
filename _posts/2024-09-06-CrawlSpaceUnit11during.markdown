@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crawl Space Unit 11 -During Pictures: 9/6  "
+title:  "Crawl Space Unit 11 -During Pictures: 9/6"
 date:   2024-09-06 01:00:00 -0800
 categories: merritthouse update
 ---
