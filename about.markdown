@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Located on Orr's Island, Maine.  The original Merritt 'boarding' House was opened in the late 1890's.
+Located on Orr's Island, Maine.  The original Merritt 'boarding' House was opened Wednesday June 29th 1898.<br>
 
+* Mr. and Mrs Fides of Orrs Island opened their new house, "The Merritt." Wednesday.  The House has a delightful locadion, is three-storied, and has 22 rooms with accommodation for 40 guests.  It is well furneished. An excellent dinner was served to a large company, who all wished great success to The Merritt.  Mr. and Mrs Fides are hightly respected and esteemed in the community and Mrs. FIdes is an admirable housekeeper.*
+<br>
+<sub>Evening Express, Portland Main - Thursday June 30th, 1898. </sub><br>
 
 ![merritt-house](/images/2.jpeg)
 
