@@ -27,8 +27,15 @@ Merritt House Vendor List :
 <a href="https://drive.google.com/file/d/1vCiUJfdHbHXRwDRDNZ9KahPs11kapVXw/view?usp=sharing">Merritt House Vendor_Update_List_May2025.pdf</a>
 <br>
 Merritt House Task List : 
-<a href="https://drive.google.com/file/d/1Et9YUWQWCX-5MUOyJ9BgOiVC5Qxs3Rza/view?usp=sharingg">Merritt House_Task List_2024.pdf</a>
+<a href="https://drive.google.com/file/d/1Et9YUWQWCX-5MUOyJ9BgOiVC5Qxs3Rza/view?usp=sharing">Merritt House_Task List_2024.pdf</a>
 <br>
+Merritt House Water Delivery Process : 
+<a href="https://drive.google.com/file/d/1JgNeTBuubhSDhWRR0SIw4hLfmBuHbruR/view?usp=sharing">Merritt_House_Water_Delivery_Process.pdf</a>
+<br>
+Archive of Drop Box files :
+<a href="https://drive.google.com/file/d/1rc1Xjh0k7CppZ81xgxNSAYQhWB4MBA1y/view?usp=sharing">DropBoxFilesMerrittHouse.zip</a>
+<br>
+
 
 <hr>
 
