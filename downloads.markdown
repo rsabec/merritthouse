@@ -4,9 +4,14 @@ title: Downloads
 permalink: /downloads/
 ---
 
+<p>Access to Merritt House Condo Association Google Groups requires a Google Account and associated email. Please reachout to the current Association Board with your Google Account's email.  If you are a new owner or resident and are unfamiliar with Google, gmail or Google Groups, please review the PDF provided below to setup your account with Google. </p>
+<a href="../files/New_Owner_Access_to_Google_Groups.pdf" download> New_Owner_Access_to_Google_Groups.pdf </a>
 
-<p>Downloads ( must have google log-in and request access - Access will only be provided to residents of Merritt House Condominiums )</p>
-<br>
+<p>Please refer to Google's own documentation if you need additional information by searching for 'how to setup a new Google Account'  </p>
+<hr>
+<p><h3>The Downloads below are additional to what is made available in the Merritt House Condo's Association Google Groups.</h3>
+<hr>
+  When attempting to download files below you will be prompted for the email associated with your membership in the Merritt House Condo Association Google Group to be granted access.  Your first request may take a few days to process.  Thank you for your patience in advance</p>
 <hr>
 Plot plan - survey done November 17th 2008 : 
 	<a href="https://drive.google.com/file/d/1t45DL1FopYxRsHJDIbwkYTdxyFXAW3KG/view?usp=sharing">merritthouseSitePlan.pdf</a>
