@@ -11,7 +11,7 @@ permalink: /downloads/
 <hr>
 <p><h3>The Downloads below are additional to what is made available in the Merritt House Condo's Association Google Group.</h3>
 <hr>
-  When attempting to download files below you must be logged into your Google account that is associated with Merritt House Condo Association Google Groups to be granted access. If you are not an owner/member you will not be granted access.  If you are a member and can not download, please make sure you are using the same browser where you are currently logged into your Google Account in this session.  The supported Bowser is Google Chrome ! </p>
+  When attempting to download files below you must be logged into your Google account that is associated with Merritt House Condo Association Google Groups to be granted access. If you are not an owner/member you will not be granted access.  If you are a member and can not download, please make sure you are using the same browser where you are currently logged into your Google Account in this session.  The supported Browser is Google Chrome ! </p>
 <hr>
 Plot plan - survey done November 17th 2008 : 
 	<a href="https://drive.google.com/file/d/1t45DL1FopYxRsHJDIbwkYTdxyFXAW3KG/view?usp=sharing" download>merritthouseSitePlan.pdf</a>
