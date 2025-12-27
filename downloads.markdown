@@ -4,7 +4,7 @@ title: Downloads
 permalink: /downloads/
 ---
 
-<p>Access to Merritt House Condo Association Google Groups requires a Google Account and associated email. Please reach out to the current Association Board with your Google Account's email.  If you are a new owner or resident and are unfamiliar with Google, gmail or Google Groups, please review the PDF provided below to setup your account with Google. </p>
+<p>Access to Merritt House Condo Association Google Group requires a Google Account and associated email. Please reach out to the current Association Board with your Google Account's email.  If you are a new owner or resident and are unfamiliar with Google, gmail or Google Groups, please review the PDF provided below to setup your account with Google first before requesting to be added to the Merritt House Condo Association Google Group. </p>
 <a href="../files/New_Owner_Access_to_Google_Groups.pdf" download> New_Owner_Access_to_Google_Groups.pdf </a>
 
 <p>Please refer to Google's own documentation if you need additional information by searching for 'how to setup a new Google Account'  </p>
