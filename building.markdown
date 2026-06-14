@@ -27,3 +27,16 @@ Service: Weekly pickup of trash, recycles, flattened cardboard. Trash should be 
 <p>The new kayak roller has been installed to the immediate left of the swim ladder.   Please see <a href="/merritthouse/update/2024/06/29/KayakRollerInstalled2.html">'blog' post from June 29th 2024 'New Kayak Roller Installed and Ready For Use'</a> for more information </p>
 
 <iframe src="https://drive.google.com/file/d/13DQPJtj1NGWxFraXTclD5Sqb7XByVVLj/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<p><h1>Helpful miscellaneous Items</h1>
+
+<ul>
+  <li> Andersen 400 series Windows - their Youtube video on how to open Double-Hung Windows for Cleaning -  </li>
+  <li><iframe width="560" height="315" src="https://www.youtube.com/embed/Adz3IBK5M38?si=Zasy5Sl0Iqv1AhDb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></li>
+  <li><a href="https://parts.andersenwindows.com/">Andersen window parts site</a></li>
+ 
+</ul>
+
+
+
+</p>
