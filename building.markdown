@@ -31,10 +31,14 @@ Service: Weekly pickup of trash, recycles, flattened cardboard. Trash should be 
 <p><h1>Helpful miscellaneous Items</h1>
 
 <ul>
-  <li> Andersen 400 series Windows - their Youtube video on how to open Double-Hung Windows for Cleaning -  </li>
-  <li><iframe width="560" height="315" src="https://www.youtube.com/embed/Adz3IBK5M38?si=Zasy5Sl0Iqv1AhDb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></li>
-  <li><a href="https://parts.andersenwindows.com/">Andersen window parts site</a></li>
- 
+  <li> Andersen 400 series Windows - their Youtube video on how to open Double-Hung Windows for Cleaning and link for their parts site  </li>
+
+   <ul>
+     <li><iframe width="560" height="315" src="https://www.youtube.com/embed/Adz3IBK5M38?si=Zasy5Sl0Iqv1AhDb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></li>
+	  <li><a href="https://parts.andersenwindows.com/">Andersen window parts site</a></li>
+    </ul>
+
+
 </ul>
 
 
