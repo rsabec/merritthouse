@@ -29,7 +29,7 @@ Merritt House Rules Regulations :
 <a href="https://drive.google.com/file/d/1XmUvGLXyRZUH7qrozJWqAmRKKuQxwsI4/view?usp=sharing" download>Merritt_House_Rules_Regulations.pdf</a>
 <br>
 Merritt House Vendor List : 
-<a href="https://drive.google.com/file/d/1aFt0U53LcrxwJjpaITqiNCrYD9GYInLN/view?usp=drive_link" download>House Vendor_Update_List_May2026.pdf</a>
+<a href="https://drive.google.com/file/d/11IXcQQ7Pbr_97-d7LUTMm8eIcrxwUewk/view?usp=drive_link" download>Merritt House Vendor_Update_List_June2026.pdf</a>
 <br>
 Merritt House Task List : 
 <a href="https://drive.google.com/file/d/1Z6Rugwcozk0wHqr-Di8DMu83wGY9CWNE/view?usp=sharing" download>Merritt House_Task List_May2026.pdf</a>  
