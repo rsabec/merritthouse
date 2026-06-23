@@ -28,6 +28,9 @@ Bylaws of MHPV Condo  :
 Bylaws Revision 2013  : 
 	<a href="https://drive.google.com/file/d/1icucFTSuoA_o_X4opy4S_R0JixAFcO7u/view?usp=sharing" download>Bylaw revision 2013.pdf</a>
 	<br>	
+12_Merritt_House_Condo_Declaration : 
+	<a href="https://drive.google.com/file/d/1s-viYoOB5z28MgdlzMg6t4POdAgOD6FR/view?usp=sharing" download>12_Merritt_House_Condo_Declaration.pdf</a>
+	<br>		
 Merritt House Rules Regulations : 
 <a href="https://drive.google.com/file/d/1XmUvGLXyRZUH7qrozJWqAmRKKuQxwsI4/view?usp=sharing" download>Merritt_House_Rules_Regulations.pdf</a>
 <br>
