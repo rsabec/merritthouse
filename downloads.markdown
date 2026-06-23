@@ -25,6 +25,9 @@ Zip file of additional miscellaneous Merritt House Survey Plats :
 Bylaws of MHPV Condo  : 
 	<a href="https://drive.google.com/file/d/18as2LV-m3d9m8Y6i9J3FJGcempwQdYvQ/view?usp=sharing" download>Bylaws of MHPVCondo.pdf</a>
 	<br>
+Bylaws Revision 2013  : 
+	<a href="https://drive.google.com/file/d/1icucFTSuoA_o_X4opy4S_R0JixAFcO7u/view?usp=sharing" download>Bylaw revision 2013.pdf</a>
+	<br>	
 Merritt House Rules Regulations : 
 <a href="https://drive.google.com/file/d/1XmUvGLXyRZUH7qrozJWqAmRKKuQxwsI4/view?usp=sharing" download>Merritt_House_Rules_Regulations.pdf</a>
 <br>
