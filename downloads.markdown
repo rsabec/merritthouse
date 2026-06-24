@@ -40,6 +40,9 @@ Merritt House Vendor List :
 Merritt House Task List : 
 <a href="https://drive.google.com/file/d/1Z6Rugwcozk0wHqr-Di8DMu83wGY9CWNE/view?usp=sharing" download>Merritt House_Task List_May2026.pdf</a>  
 <br>
+Suggested Regular Unit Maintenance : 
+<a href="https://drive.google.com/file/d/1YugUFC5XkmE3-uXgCUvrJWMfe_oNQ80y/view?usp=sharing" download>Suggested Regular Unit Maintenance.pdf</a>  
+<br>
 Merritt House Water Delivery Process : 
 <a href="https://drive.google.com/file/d/1JgNeTBuubhSDhWRR0SIw4hLfmBuHbruR/view?usp=sharing" download>Merritt_House_Water_Delivery_Process.pdf</a>
 <br>
