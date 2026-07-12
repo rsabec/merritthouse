@@ -4,6 +4,169 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+<!-- 
+  <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3.1.0/dist/cookieconsent.umd.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3.1.0/dist/cookieconsent.min.css">
+-->
+
+<script>
+  
+(function () {
+  /**
+   * Configure and load the consent management tool
+   * Scope       : Pre Loader / DOM Ready
+   * Occurrence  : n/a
+   * Condition   : n/a
+   * Description : Loads a specific CookieConsent configuration on your website.
+   *               You may need more than one, to conditionally load different
+   *               configurations for different regions.
+   */
+
+  // setting cookie domain function
+  var CookieConsent_util = {
+    lh: function (a, b, c) {
+      a = "" + location.hostname;
+      b = a.split(".");
+      c = (/\.co\.|\.com\.|\.org\.|\.edu\.|\.net\.|\.asn\.|\...\.jp$/.test(a)) ? 3 : 2;
+      return b.splice(b.length - c, c).join(".");
+    }
+  };
+
+  // CookieConsent variables
+  // var ccDomain = 'tags.tiqcdn.com';
+  var ccVersion = 'v3.1.0';
+
+  // CookieConsent modal configuration
+  // Update this configuration object to meet your specific needs.
+  // All configuration options: https://cookieconsent.orestbida.com/reference/configuration-reference.html
+  var ccConfig = {
+    mode: 'opt-in',
+    disablePageInteraction: true,
+    guiOptions: {
+      consentModal: {
+        layout: 'cloud',
+        position: 'bottom center',
+        flipButtons: false,
+        equalWeightButtons: true
+      },
+      preferencesModal: {
+        layout: 'bar wide',
+        position: 'right',
+        flipButtons: false,
+        equalWeightButtons: true
+      }
+    },
+    cookie: {
+      name: 'cc_cookie',
+      // domain: window.location.hostname,
+      domain: "." + CookieConsent_util.lh(),
+      path: '/',
+      secure: true,
+      expiresAfterDays: 182,
+      sameSite: 'Lax',
+      useLocalStorage: false
+    },
+    categories: {
+      necessary: {
+        enabled: true,
+        readOnly: true
+      },
+      analytics: {},
+      marketing: {}
+    },
+    language: {
+      default: 'en',
+      translations: {
+        en: {
+          consentModal: {
+            title: 'We value your privacy',
+            description: "We'd like to use browser storage to understand how you use our website, and to display information and offers relevant to you.",
+            acceptAllBtn: 'Accept all',
+            acceptNecessaryBtn: 'Accept necessary',
+            showPreferencesBtn: 'Manage preferences',
+            footer: '<a href="#">Privacy Policy</a>'
+          },
+          preferencesModal: {
+            title: 'Manage preferences',
+            acceptAllBtn: 'Accept all',
+            acceptNecessaryBtn: 'Accept necessary',
+            savePreferencesBtn: 'Accept selection',
+            closeIconLabel: 'Close modal',
+            sections: [
+              {
+                title: 'We value your privacy',
+                description: 'We use browser storage to remember your preferences, understand how you use the site, and show you relevant offers.<br><br>Please make a selection, then click "Accept selection" to consent to those specific purposes. You can change or withdraw your consent at any time.'
+              },
+              {
+                title: 'Strictly Necessary <span class="pm__badge">Always Enabled</span>',
+                description: 'This tracking is essential for the proper functioning of the website and cannot be disabled.',
+                linkedCategory: 'necessary'
+              },
+              {
+                title: 'Performance and Analytics',
+                description: 'This tracking collects information about the performance of our website and how you use it.',
+                linkedCategory: 'analytics',
+                cookieTable: {
+                  caption: 'Analytics cookies',
+                  headers: {
+                    name: 'Name',
+                    description: 'Description',
+                    duration: 'Duration'
+                  },
+                  body: [
+                    {
+                      name: '_ga',
+                      description: 'Used to distinguish users.',
+                      duration: '2 years'
+                    },
+                    {
+                      name: '_ga_1234ABCD',
+                      description: 'Used to persist session state.',
+                      duration: '2 years'
+                    }
+                  ]
+                }
+              },
+              {
+                title: 'Marketing and Social',
+                description: 'This tracking collects information about how you use our website to show offers you may be interested in.',
+                linkedCategory: 'marketing'
+              },
+              {
+                title: 'More information',
+                description: 'To learn more about cookies, please visit <a href="https://www.cookiesandyou.com/" target="_blank">Cookies & You</a>'
+              }
+            ]
+          }
+        }
+      }
+    }
+  };
+
+  
+  var c = document.createElement('link');
+  c.rel = 'stylesheet';
+ // c.href = 'https://' + ccDomain + '/libs/cookieconsent/' + ccVersion + '/cookieconsent.css';
+ c.href = 'https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3.1.0/dist/cookieconsent.min.css';
+  document.head.appendChild(c);
+  
+
+ /* var c = document.createElement('script');
+  c.src = 'https://tags.tiqcdn.com/utag/services-robert-sabec/cookieconsent-file/prod/utag.3.js';
+  document.head.appendChild(c);
+*/
+  var s = document.createElement('script');
+  // s.src = 'https://' + ccDomain + '/libs/cookieconsent/' + ccVersion + '/cookieconsent.umd.js';
+  s.src = 'https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3.1.0/dist/cookieconsent.umd.min.js';
+  s.addEventListener('load', function () {
+    CookieConsent.run(ccConfig);
+  });
+  document.head.appendChild(s);
+}());
+
+
+</script>
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8X1TZ4FP2E"></script>
