@@ -38,7 +38,7 @@ Merritt House Vendor List :
 <a href="https://drive.google.com/file/d/11IXcQQ7Pbr_97-d7LUTMm8eIcrxwUewk/view?usp=drive_link" download>Merritt House Vendor_Update_List_June2026.pdf</a>
 <br>
 Merritt House Task List : 
-<a href="https://drive.google.com/file/d/1Z6Rugwcozk0wHqr-Di8DMu83wGY9CWNE/view?usp=sharing" download>Merritt House_Task List_May2026.pdf</a>  
+<a href="https://drive.google.com/file/d/1jz76DhL2WPatxDrJNx-3afmTAqjC45ZW/view?usp=drive_link" download>Merritt House_Task List_July2026.pdf</a>  
 <br>
 Suggested Regular Unit Maintenance : 
 <a href="https://drive.google.com/file/d/1YugUFC5XkmE3-uXgCUvrJWMfe_oNQ80y/view?usp=sharing" download>Suggested Regular Unit Maintenance.pdf</a>  
