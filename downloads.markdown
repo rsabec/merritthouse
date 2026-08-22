@@ -53,9 +53,19 @@ Archive of Drop Box files :
 
 <hr>
 
+<h3>Important Note</h3>
 
+<p>
+  This is a <strong>privately maintained personal website</strong> created by a
+  Merritt House owner as a practical way to share helpful information with neighbors
+  and fellow owners.
+</p>
 
-
+<p>
+  Content is shared for general convenience and may be added, changed, or removed
+  at the discretion of the site owner. For Association matters, requests, or official
+  records, please contact the Merritt House Condominium Association directly.
+</p>
 
 
 
