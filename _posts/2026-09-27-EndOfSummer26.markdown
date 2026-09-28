@@ -8,7 +8,9 @@ categories: merritthouse update
 
 <h2> Another great summer on Orr's Island!  </h2>
 
-<p>Summer is over! Click on image to open shared album in new window.</p>
+<p>Summer is over! </p>
+<p>Click on image to open shared album in new window.</p>
+
 
 <a href="https://www.icloud.com/sharedalbum/#D2Lv3L8TvNYg_pmbyXiQkOGOmVgCAEQARogQg_qeiOZpiCuS1x7HqTbwnNrOXqAIqNSrh585kMOyXY" target="_blank" ><img src="/images/IMG_9444_HDR.jpeg" alt="sailBoat" style="width:982px;height:400px;"></a>
 <!-- https://share.icloud.com/photos/0dfA10To6hgsTPa6g8AEKqHFg
